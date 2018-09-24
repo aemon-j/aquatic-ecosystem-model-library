@@ -19,4 +19,4 @@ If you want to contribute to the project, please contact AEMON-J, and we will gi
 ## The AEMON-J model library team
 The AEMON-J model library team is run within AEMON-J organization. We are 5 young researchers who voluntarily work on this project. We wanted to created a community based model information platform, so aquatic ecosystem models can be more accessible to the broader community.
 
-More detailed inforamtion can be found at : https://github.com/aemon-j/aquatic-ecosystem-model-library/wiki
+More detailed information can be found at : https://github.com/aemon-j/aquatic-ecosystem-model-library/wiki
