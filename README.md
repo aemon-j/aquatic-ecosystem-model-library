@@ -8,7 +8,7 @@ This is a repository created by the  AEMON-J network for developing/documenting 
 Our intention is to create an interactive platform to help new modellers to choose the models that suit their needs, and to attract more advanced modeller to input their modelling knowledge. 
 If you want to contribute to the project, please contact AEMON-J, and we will give you permission to edit the repository.
 ## I am a new modeller
-1. Go to wiki page and surf the modelling inforamtion.
+1. Go to wiki page and surf the modelling information.
 2. More detailed model entry form is in the code repository, /model-entry-forms/..
 3. Can not find information your need? Just ask a question/raise an issue under issues. The community including the team behind this project will help you.
 
